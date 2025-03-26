@@ -1,9 +1,10 @@
 package main
 
-import(
-	"fmt"
+import (
+	
+	"ydo/api"
 )
 
 func main() {
-	fmt.Printf("Hello World!")
+	server.Test()
 }
